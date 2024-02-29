@@ -1,18 +1,19 @@
 <template lang="">
     <main>
         <h1>
-            HelloWorld!
+            Welcome into the Main!
         </h1>
     </main>
 </template>
 <script>
 export default {
-    name: 'AppHome',
+    name: 'AppMain',
     data() {
         return {
             
         }
     },
+    
 }
 </script>
 <style lang="">

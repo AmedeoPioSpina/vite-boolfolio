@@ -3,7 +3,7 @@
         <nav>
             <ul>
                 <li>
-                    <router-link :to="{name: 'home'}">
+                    <router-link to="/main">
                         Home
                     </router-link>
                 </li>
